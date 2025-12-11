@@ -1,4 +1,7 @@
 ✈️ Flight Passenger Manager (Arrays & Collections)
+## 📖 Learning Journey
+This project is part of my backend journey, learning under the guidance of **Copilot — My Miracle Guru** 🌞. 
+
 📖 Overview
 This project simulates a simple aviation passenger management system using Java Arrays and ArrayLists.
 It demonstrates core backend concepts such as:
@@ -9,19 +12,19 @@ It demonstrates core backend concepts such as:
 •	Handling cancellations
 •	Tracking  seats count
 The project is inspired by aviation systems, reflecting backend logic that powers real-world airlines.
-________________________________________
+
 🚀 Features
 •	Passenger Manifest → Print all passengers with their seat numbers
 •	Search Functionality → Find a passenger and display their seat dynamically
 •	Cancellation Simulation → Remove a passenger and update the manifest safely
 •	Update Seat Assignments → Modify seat numbers for existing passengers
 •	Capacity Tracking → Count filled vs empty seats
-________________________________________
+
 🛠️ Tech Stack
 •	Language: Java
 •	Collections Used: ArrayList
 •	Concepts Covered: Arrays, Traversal, Search, Update, Remove, Dynamic Index Handling
-________________________________________
+
 📂 Project Structure
 FlightPassengerManager.java
 •	main() → Entry point
